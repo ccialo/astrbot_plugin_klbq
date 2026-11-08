@@ -1,0 +1,11 @@
+name: astrbot_plugin_klbq
+display_name: 卡拉彼丘战绩查询
+desc: 卡拉彼丘（Strinova）战绩查询：按昵称从 dakanu.com 取数并渲染长图（排位段位/总览/模式/角色/最近对局）。移植自 DSH 插件 dsh-klbq。
+version: 0.1.1
+author: CSAHuan（原作）· 移植
+repo: https://github.com/CSAHuan/dsh-klbq
+help: 用法：/klbq <游戏昵称>，例如 /klbq ahiahdiawh
+tags:
+  - 卡拉彼丘
+  - Strinova
+  - 战绩查询
