@@ -3,7 +3,7 @@
 卡拉彼丘（Strinova）战绩查询 AstrBot 插件：按游戏昵称从 [dakanu.com](https://dakanu.com) 取数，
 渲染成一张长图（排位段位 / 总览 / 模式 / 角色 / 最近对局）并发送到聊天。
 
-移植自 DSH 插件 [dsh-klbq](https://github.com/CSAHuan/dsh-klbq)（MIT，作者 CSAHuan）。
+移植自 DSH 插件 [dsh-klbq](https://github.com/CSAHuan/dsh-klbq)（作者 CSAHuan）。
 
 ## 用法
 
@@ -55,4 +55,4 @@ astrbot_plugin_klbq/
 
 ## 许可
 
-MIT（沿用原作）
+MIT
